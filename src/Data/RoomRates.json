@@ -1,0 +1,50 @@
+[
+    {
+        "img" : "src/assets/RoomRates/bed 1.jpg",
+        "heading" : "Deluxe Black Room",
+        "text" : "These Luxury Hotel Rooms Come with a King-sized bed, Views of the hotel's Strik...",
+        "button" : "Book Now From N70000" 
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 2.jpg",
+        "heading" : "Studio Broadway Room",
+        "text" : "Economy Single Room is well-furnished guest rooms 11 square meters with the M...",
+        "button" : "Book Now From N80000 "
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 3.jpg",
+        "heading" : "Standard Double Room",
+        "text" : "Furnished in classic and essential style, These comfortable rooms have balcon...",
+        "button" : "Book Now From N80000"
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 4.jpg",
+        "heading" : "Deluxe Twin Room",
+        "text" : "Designed for practicality and comfort, These contemporary-styled rooms feature...",
+        "button" : "Book Now From N100000"
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 5.jpg",
+        "heading" : "Studio Corporate Room",
+        "text" : "Whether you are travelling on Business or on Leisure, our Corporate studio Ro...",
+        "button" : "Book Now From N50000"
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 6.jpg",
+        "heading" : "Deluxe Contrast Room",
+        "text" : "Live at the historic plaza residences. Spacious and Bright one bedroom Home O...",
+        "button" : "Book Now From N50000"
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 7.jpg",
+        "heading" : "Standard Big Room",
+        "text" : "Ah, the humble Studio Apartment. At one time, This dwelling was considered to...",
+        "button" : "Book Now From N15000"
+    },
+    {
+        "img" : "src/assets/RoomRates/bed 8.jpg",
+        "heading" : "Studio Room With Pool",
+        "text" : "Studio Room in our Hotel is a spacious and cozy room with a seperate sitting...",
+        "button" : "Book Now From N50000"
+    }
+]

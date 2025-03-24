@@ -1,12 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import { BrowserRouter, Route, Routes} from 'react-router-dom'
 import Header from './components/Header'
-import MainPage from './components/MainPage'
+import LandingPage from './Pages/LandingPage'
 import Footer from './components/Footer'
-
+import Facilities from './Pages/Facilities'
+import RoomRates from './Pages/RoomRates'
+import FacilitiesComp from './components/trying/FacilitiesComp'
+import ContactUs from './Pages/ContactUs'
+import Events from './Pages/Events'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -16,8 +17,13 @@ function App() {
 
           <Routes>
             <Route element={<Header />} path='/Header' />
-            <Route element={<MainPage />} path='/MainPage' />
+            <Route element={<LandingPage />} path='/LandingPage' />
             <Route element={<Footer />} path='/Footer' />
+            <Route element={<Facilities />} path='/Facilities' />
+            <Route element={<RoomRates />} path='/RoomRates' />
+            <Route element={<FacilitiesComp />} path='/FacilitiesComp' />
+            <Route element={<ContactUs />} path='/ContactUs' />
+            <Route element={<Events />} path='/Events'  />
           </Routes>
           
         </BrowserRouter>

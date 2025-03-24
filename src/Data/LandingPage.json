@@ -1,0 +1,20 @@
+[
+    {
+        "img": "public/img/bedroom 1.jpg",
+        "topic":"Standard Double Room",
+        "content":"Furnished in Classic And Essential Style These Comfortable Rooms Have Balconies Facing...",
+        "butt":"Book Now From #5000 "
+    },
+    {
+        "img": "public/img/bedroom 2.jpg",
+        "topic":"Economic Room",
+        "content":"Furnished in Classic And Essential Style These Comfortable Rooms Have Balconies Facing...",
+        "butt":"Book Now From #9000 "
+    },
+    {
+        "img": "public/img/hotel img 6.jpeg",
+        "topic":"Deluxe Dark Room",
+        "content":"Furnished in Classic And Essential Style These Comfortable Rooms Have Balconies Facing...",
+        "butt":"Book Now From #112000 "
+    }
+]

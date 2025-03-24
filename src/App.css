@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 #hero{
-    background-image:url('src/assets/hotel img 1.jpeg');
+    background-image:url('src/assets/LandingPage/hotel img 1.jpeg');
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
-    background-color:rgba(0, 0, 0, 0.455);
+    background-color:rgba(0, 0, 0, 0.693);
     background-blend-mode:multiply;
 }
 .herr-von-muellerhoff-regular {
@@ -12,22 +12,120 @@
     font-weight: 400;
     font-style: normal;
 }
+#input1{
+    border-radius:7px 0 0 7px;
+}
+#checkRatesBtn{
+    border-radius:0 7px 7px 0;
+}
 #hero2{
-    background-image:url('src/assets/hotel img 7.jpeg');
+    background-image:url('src/assets/LandingPage/hotel img 7.jpeg');
     background-position:2px;
     background-repeat:no-repeat;
     background-size:cover;
     background-color:rgba(0, 0, 0, 0.837);
     background-blend-mode:multiply;
-    height:100vh;
+    /* height:100vh; */
+    padding-bottom:40px;
 }
 #hero3{
-    background-image:url('src/assets/hotel img 11.jpeg');
+    background-image:url('src/assets/LandingPage/hotel img 11.jpeg');
     height:100vh;
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
-    background-color:rgba(0, 0, 0, 0.534);
+    background-color:rgba(0, 0, 0, 0.735);
     background-blend-mode:multiply;
 }
-    
+#button1{
+    border-radius:0 5px 5px 0;
+}
+#footerBottom{
+    margin-left:510px;
+}
+#poolHero{
+    background-image:url(./assets/Facilities/pool.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-color:rgba(0, 0, 0, 0.752);
+    background-blend-mode:multiply;
+    height:90vh;
+}
+#shampooHero{
+    background-image:url(./assets/Facilities/shampoo.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-color:rgba(0, 0, 0, 0.632);
+    height:90vh;
+    background-blend-mode:multiply;
+}
+#barHero{
+    background-image:url(./assets/Facilities/Bar.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-color:rgba(0, 0, 0, 0.632);
+    height:90vh;
+    background-blend-mode:multiply;
+}
+#roomTypes{
+    border-radius:8px 8px 0 0;
+}
+#awardImg{
+    border-radius:5px 5px 0 0;
+}    
+#awardImgBg{
+    border-radius:5px 5px 0 0;
+}
+#input2{
+    background-color:rgb(74, 72, 72);
+    border-radius: 5px 0 0 5px;
+    border:none;
+    height:42px;
+    padding:5px 10px;
+}
+#roomRatesHero{
+    background-image:url(./assets/RoomRates/hero.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-blend-mode:multiply;
+    background-color:rgba(0, 0, 0, 0.725);
+}
+#contactUsHero{
+    background-image:url(./assets/ContactUs/Hero.jpeg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color:rgba(0, 0, 0, 0.738);
+    background-blend-mode:multiply;
+    height:80vh;
+}
+#eventsBg{
+    background-image:url(./assets/events/aranxa-esteve-pOXHU0UEDcg-unsplash.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color:rgba(0, 0, 0, 0.738);
+    background-blend-mode:multiply;
+    height:100vh;
+}
+#eventsHero2{
+    background-image:url(./assets/events/life-s-captured-sparks-omBEgDTkzLw-unsplash.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-color: rgba(0, 0, 0, 0.904);
+    background-blend-mode:multiply;
+    height:100vh;
+}
+#eventsPic1a{
+    background-image:url(assets/events/art exhibit.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-blend-mode:multiply;
+    /* height:20vh; */
+}

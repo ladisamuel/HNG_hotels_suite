@@ -1,0 +1,49 @@
+{
+    "Facilities" : [
+        {
+            "head1" : "GET THE FIVE STAR TREATMENT",
+            "head2" : "VALET PARKING",
+            "text1" :"Services Includes; In-Door swimming pool, Free breakfast, High sped Internet, Free airport pickup & drop-off, Car rental, Beach Tour, Pool Lounge, Duplex-styled Serviced apartments, Maximum security, 24/7 Power Supply and many more.",
+            "text2" : "Double M Exquisite Suites and Lounge is a Budget Hotel in Lekki,Lagos",
+            "link" : "",
+            "img_url" : "src/assets/LandingPage/hotel img 9.jpeg",
+            "bg_url" : ""
+        },
+        {
+            "head1" : "2 GET THE FIVE STAR TREATMENT",
+            "head2" : "GYM AND SPA",
+            "text1" :"2 Services Includes; In-Door swimming pool, Free breakfast, High sped Internet, Free airport pickup & drop-off, Car rental, Beach Tour, Pool Lounge, Duplex-styled Serviced apartments, Maximum security, 24/7 Power Supply and many more.",
+            "text2" : "2 Double M Exquisite Suites and Lounge is a Budget Hotel in Lekki,Lagos",
+            "link" : "",
+            "img_url" : "src/assets/Facilities/image 2.jpeg",
+            "bg_url" : ""
+        },
+        {
+            "head1" : "3 GET THE FIVE STAR TREATMENT",
+            "head2" : "RESTAURANT",
+            "text1" :"3 Services Includes; In-Door swimming pool, Free breakfast, High sped Internet, Free airport pickup & drop-off, Car rental, Beach Tour, Pool Lounge, Duplex-styled Serviced apartments, Maximum security, 24/7 Power Supply and many more.",
+            "text2" : "3 Double M Exquisite Suites and Lounge is a Budget Hotel in Lekki,Lagos",
+            "link" : "",
+            "img_url" : "src/assets/Facilities/image 3.jpeg",
+            "bg_url" : ""
+        },
+        {
+            "head1" : "4 GET THE FIVE STAR TREATMENT",
+            "head2" : "BAR",
+            "text1" :"4 Services Includes; In-Door swimming pool, Free breakfast, High sped Internet, Free airport pickup & drop-off, Car rental, Beach Tour, Pool Lounge, Duplex-styled Serviced apartments, Maximum security, 24/7 Power Supply and many more.",
+            "text2" : "4 Double M Exquisite Suites and Lounge is a Budget Hotel in Lekki,Lagos",
+            "link" : "",
+            "img_url" : "src/assets/Facilities/image 4.jpeg",
+            "bg_url" : ""
+        },
+        {
+            "head1" : "5 GET THE FIVE STAR TREATMENT",
+            "head2" : "SWIMMING POOL",
+            "text1" :"5 Services Includes; In-Door swimming pool, Free breakfast, High sped Internet, Free airport pickup & drop-off, Car rental, Beach Tour, Pool Lounge, Duplex-styled Serviced apartments, Maximum security, 24/7 Power Supply and many more.",
+            "text2" : "Double M Exquisite Suites and Lounge is a Budget Hotel in Lekki,Lagos",
+            "link" : "",
+            "img_url" : "src/assets/Facilities/image 5.jpeg",
+            "bg_url" : ""
+        }
+    ]
+}
